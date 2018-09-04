@@ -18,7 +18,7 @@ reserved = {
    'requiredInterfaces' : 'REQUIREDINTERFACES',
    'compile' : 'COMPILE',
 
-   'http://boa-arm-eid.asml.com:8081/artifactory/asml-litho-local' : 'SOMELINK'
+   '' : 'SOMELINK'
 }
 
 # List of token names.   This is always required
